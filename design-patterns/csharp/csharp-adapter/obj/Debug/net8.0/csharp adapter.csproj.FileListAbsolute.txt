@@ -1,0 +1,28 @@
+C:\Users\LENOVO\Desktop\csharp adapter\bin\Debug\net8.0\csharp adapter.exe
+C:\Users\LENOVO\Desktop\csharp adapter\bin\Debug\net8.0\csharp adapter.deps.json
+C:\Users\LENOVO\Desktop\csharp adapter\bin\Debug\net8.0\csharp adapter.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp adapter\bin\Debug\net8.0\csharp adapter.dll
+C:\Users\LENOVO\Desktop\csharp adapter\bin\Debug\net8.0\csharp adapter.pdb
+C:\Users\LENOVO\Desktop\csharp adapter\obj\Debug\net8.0\csharp adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp adapter\obj\Debug\net8.0\csharp adapter.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp adapter\obj\Debug\net8.0\csharp adapter.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp adapter\obj\Debug\net8.0\csharp adapter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp adapter\obj\Debug\net8.0\csharp adapter.dll
+C:\Users\LENOVO\Desktop\csharp adapter\obj\Debug\net8.0\refint\csharp adapter.dll
+C:\Users\LENOVO\Desktop\csharp adapter\obj\Debug\net8.0\csharp adapter.pdb
+C:\Users\LENOVO\Desktop\csharp adapter\obj\Debug\net8.0\csharp adapter.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp adapter\obj\Debug\net8.0\ref\csharp adapter.dll
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\bin\Debug\net8.0\csharp adapter.exe
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\bin\Debug\net8.0\csharp adapter.deps.json
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\bin\Debug\net8.0\csharp adapter.runtimeconfig.json
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\bin\Debug\net8.0\csharp adapter.dll
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\bin\Debug\net8.0\csharp adapter.pdb
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\obj\Debug\net8.0\csharp adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\obj\Debug\net8.0\csharp adapter.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\obj\Debug\net8.0\csharp adapter.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\obj\Debug\net8.0\csharp adapter.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\obj\Debug\net8.0\csharp adapter.dll
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\obj\Debug\net8.0\refint\csharp adapter.dll
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\obj\Debug\net8.0\csharp adapter.pdb
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\obj\Debug\net8.0\csharp adapter.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-adapter\obj\Debug\net8.0\ref\csharp adapter.dll

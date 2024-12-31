@@ -1,0 +1,28 @@
+C:\Users\LENOVO\Desktop\csharp facade\bin\Debug\net8.0\csharp facade.exe
+C:\Users\LENOVO\Desktop\csharp facade\bin\Debug\net8.0\csharp facade.deps.json
+C:\Users\LENOVO\Desktop\csharp facade\bin\Debug\net8.0\csharp facade.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp facade\bin\Debug\net8.0\csharp facade.dll
+C:\Users\LENOVO\Desktop\csharp facade\bin\Debug\net8.0\csharp facade.pdb
+C:\Users\LENOVO\Desktop\csharp facade\obj\Debug\net8.0\csharp facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp facade\obj\Debug\net8.0\csharp facade.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp facade\obj\Debug\net8.0\csharp facade.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp facade\obj\Debug\net8.0\csharp facade.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp facade\obj\Debug\net8.0\csharp facade.dll
+C:\Users\LENOVO\Desktop\csharp facade\obj\Debug\net8.0\refint\csharp facade.dll
+C:\Users\LENOVO\Desktop\csharp facade\obj\Debug\net8.0\csharp facade.pdb
+C:\Users\LENOVO\Desktop\csharp facade\obj\Debug\net8.0\csharp facade.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp facade\obj\Debug\net8.0\ref\csharp facade.dll
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\bin\Debug\net8.0\csharp facade.exe
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\bin\Debug\net8.0\csharp facade.deps.json
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\bin\Debug\net8.0\csharp facade.runtimeconfig.json
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\bin\Debug\net8.0\csharp facade.dll
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\bin\Debug\net8.0\csharp facade.pdb
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\obj\Debug\net8.0\csharp facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\obj\Debug\net8.0\csharp facade.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\obj\Debug\net8.0\csharp facade.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\obj\Debug\net8.0\csharp facade.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\obj\Debug\net8.0\csharp facade.dll
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\obj\Debug\net8.0\refint\csharp facade.dll
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\obj\Debug\net8.0\csharp facade.pdb
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\obj\Debug\net8.0\csharp facade.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\design-patterns\csharp\csharp-facade\obj\Debug\net8.0\ref\csharp facade.dll

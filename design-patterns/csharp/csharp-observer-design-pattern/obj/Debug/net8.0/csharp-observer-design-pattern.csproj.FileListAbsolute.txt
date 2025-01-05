@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\bin\Debug\net8.0\csharp-observer-design-pattern.exe
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\bin\Debug\net8.0\csharp-observer-design-pattern.deps.json
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\bin\Debug\net8.0\csharp-observer-design-pattern.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\bin\Debug\net8.0\csharp-observer-design-pattern.dll
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\bin\Debug\net8.0\csharp-observer-design-pattern.pdb
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\obj\Debug\net8.0\csharp-observer-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\obj\Debug\net8.0\csharp-observer-design-pattern.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\obj\Debug\net8.0\csharp-observer-design-pattern.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\obj\Debug\net8.0\csharp-observer-design-pattern.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\obj\Debug\net8.0\csharp-observer-design-pattern.dll
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\obj\Debug\net8.0\refint\csharp-observer-design-pattern.dll
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\obj\Debug\net8.0\csharp-observer-design-pattern.pdb
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\obj\Debug\net8.0\csharp-observer-design-pattern.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp-observer-design-pattern\obj\Debug\net8.0\ref\csharp-observer-design-pattern.dll

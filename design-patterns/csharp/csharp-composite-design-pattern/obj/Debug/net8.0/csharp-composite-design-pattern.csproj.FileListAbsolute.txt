@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\obj\Debug\net8.0\csharp-composite-design-pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\obj\Debug\net8.0\csharp-composite-design-pattern.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\obj\Debug\net8.0\csharp-composite-design-pattern.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\obj\Debug\net8.0\csharp-composite-design-pattern.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\bin\Debug\net8.0\csharp-composite-design-pattern.exe
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\bin\Debug\net8.0\csharp-composite-design-pattern.deps.json
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\bin\Debug\net8.0\csharp-composite-design-pattern.runtimeconfig.json
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\bin\Debug\net8.0\csharp-composite-design-pattern.dll
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\bin\Debug\net8.0\csharp-composite-design-pattern.pdb
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\obj\Debug\net8.0\csharp-composite-design-pattern.dll
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\obj\Debug\net8.0\refint\csharp-composite-design-pattern.dll
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\obj\Debug\net8.0\csharp-composite-design-pattern.pdb
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\obj\Debug\net8.0\csharp-composite-design-pattern.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\csharp-composite-design-pattern\obj\Debug\net8.0\ref\csharp-composite-design-pattern.dll

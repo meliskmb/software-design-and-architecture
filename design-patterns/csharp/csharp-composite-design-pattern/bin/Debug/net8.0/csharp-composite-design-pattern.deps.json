@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "csharp-composite-design-pattern/1.0.0": {
+        "runtime": {
+          "csharp-composite-design-pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp-composite-design-pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
